@@ -1,4 +1,5 @@
 ## Hi there! I'm Carina and this is my GitHub page, where you can find some of my work in data visualizations.
+But first, a little about me. I'm a senior at Lehigh University studying journalism and environmental science with an interest in data analysis and storytelling. I also have experience in graphic design, SEO and a touch of marketing.
 
 ## Below, please find a neat little data viz I created using data from Lehigh's Office of Institutional Research.
 
