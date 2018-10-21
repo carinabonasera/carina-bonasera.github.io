@@ -32,3 +32,8 @@ Homework 10/7 - Chart from Data Scrapings
 Lehigh Students in Mental Health Crises
 
 <iframe id="datawrapper-chart-KOHk0" src="//datawrapper.dwcdn.net/KOHk0/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="305"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["KOHk0"]={},window.datawrapper["KOHk0"].embedDeltas={"100":797,"200":454,"300":364,"400":322,"500":305,"700":249,"800":232,"900":232,"1000":232},window.datawrapper["KOHk0"].iframe=document.getElementById("datawrapper-chart-KOHk0"),window.datawrapper["KOHk0"].iframe.style.height=window.datawrapper["KOHk0"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["KOHk0"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("KOHk0"==b)window.datawrapper["KOHk0"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+
+Here is a Google 360 tour of my semester abroad in France!
+
+https://poly.google.com/view/1aywY8uaYHf 
