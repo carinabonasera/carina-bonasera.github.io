@@ -52,3 +52,5 @@ Tableau Assignment 11/18
 Final Project visualization 1: Social Media Use By Age, 2005-2018
 
 <iframe id="datawrapper-chart-Vm4x2" src="//datawrapper.dwcdn.net/Vm4x2/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="498"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["Vm4x2"]={},window.datawrapper["Vm4x2"].embedDeltas={"100":929,"200":642,"300":591,"400":549,"500":532,"700":515,"800":498,"900":498,"1000":498},window.datawrapper["Vm4x2"].iframe=document.getElementById("datawrapper-chart-Vm4x2"),window.datawrapper["Vm4x2"].iframe.style.height=window.datawrapper["Vm4x2"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["Vm4x2"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("Vm4x2"==b)window.datawrapper["Vm4x2"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script> 
+
+
